@@ -1,0 +1,70 @@
+.titulo {
+  background-color: #EFB507;
+  width: 522px;
+  height: 30px;
+  border: 1px solid black;
+  text-align: center;
+  padding-top: 5px;
+  font-size: 18px;
+}
+
+.antes, .monopoly, .ahora {
+  text-align: justify;
+  font-size: 15px;
+  float:left;
+  background-color: #fff;
+}
+
+h4, h2{
+  text-align: center;
+}
+
+.monopoly {
+  width: 240px;
+  height: 405px;
+  border-bottom: 1px solid black;
+}
+
+p {
+  margin-top: 30px;
+  margin-left: 40px; margin-right: 40px;
+}
+
+.antes, .ahora {
+    width: 140px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    height: 405px;
+    border-bottom: 1px solid black;
+}
+
+.anteriormente, .presente {
+  margin: 10px;
+}
+
+.antes #oldmonopoly{
+  background-image: url(./img/oldmonopoly.jpg);
+  background-size: 100%;
+  width: 140px;
+  height: 92px;
+  margin-top: 30px;
+}
+
+.ahora #newmonopoly{
+  background-image: url(./img/newmonopoly.png);
+  background-size: 100%;
+  width: 140px;
+  height: 125px;
+  margin-top: 15px;
+}
+
+.bajada {
+  background-color: #EFB507;
+  width: 522px;
+  height: 25px;
+  padding-top: 3px;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 400px;
+}
